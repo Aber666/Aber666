@@ -1,1 +1,1 @@
-# 布尔类型Boolean Type 有两种Ture和Flase
+# 布尔类型Boolean Type：Ture和Flase
